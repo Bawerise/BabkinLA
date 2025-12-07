@@ -13,4 +13,5 @@
 
 ![](img/0.5.png) <br> Рисунок 0.1.4 Скрин подключения к сайту
 # 4) Данные и конфиги
+Данные хранятся в docker‑томе pg_primary_data. Конфиги берутся из config/postgresql.conf и config/pg_hba.conf.
 ![](img/0.6.png) <br> Рисунок 0.1.4 Скрин проверки путей psql
