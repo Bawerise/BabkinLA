@@ -45,3 +45,12 @@ docker compose logs pgadmin
 
 
 ![](img/1.2.png) <br> Рисунок 1.1 - вывод информации
+
+## 3) Просмотр логи сервисов `db` и `pgadmin`
+
+Для просмотра логов сервисов `db` и `pgadmin` выполняем команды
+```bash
+docker compose logs db
+docker compose logs pgadmin
+```
+![](img/1.3.png)<br> Рисунок 1.3  Вывод логов служб
