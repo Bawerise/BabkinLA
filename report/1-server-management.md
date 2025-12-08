@@ -54,3 +54,5 @@ docker compose logs db
 docker compose logs pgadmin
 ```
 ![](img/1.3.png)<br> Рисунок 1.3  Вывод логов служб
+
+![](img/1.4.png)<br> Рисунок 1.4  Вывод логов служб
